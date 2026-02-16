@@ -9,4 +9,4 @@
 
 **"Kekuatan besar lahir dari unit terkecil yang terorganisir dengan presisi."**
 
-Digital Garden ini adalah hasil eksperimen selama 5 tahun dalam mencari cara terbaik untuk berpikir, bergerak, dan mengelola informasi. Di sini, saya menghubungkan kedisiplinan fisik dari **Jiujitsu** dengan ketajaman sistem **[[00 Sparks/Personal Knowledge Management\|Personal Knowledge Management]]**.
+Digital Garden ini adalah hasil eksperimen selama 5 tahun dalam mencari cara terbaik untuk berpikir, bergerak, dan mengelola informasi. Di sini, saya menghubungkan kedisiplinan fisik dari **Jiujitsu** dengan ketajaman sistem **[[anggapracoy-md/Personal Knowledge Management\|Personal Knowledge Management]]**.
