@@ -6,7 +6,11 @@
 
 
 # Selamat Datang di Atomic Notes 🌱
+---
 
-**"Kekuatan besar lahir dari unit terkecil yang terorganisir dengan presisi."**
+ini adalah space personal, komuniti bilangnya [[Digital Garden\|Digital Garden]] 
 
-Digital Garden ini adalah hasil eksperimen selama 5 tahun dalam mencari cara terbaik untuk berpikir, bergerak, dan mengelola informasi. Di sini, saya menghubungkan kedisiplinan fisik dari **Jiujitsu** dengan ketajaman sistem **[[anggapracoy-md/Personal Knowledge Management\|Personal Knowledge Management]]**.
+isi nya ya apa yang mau aku isi aja sih hehehe
+
+### Topics :
+**[[anggapracoy-md/Personal Knowledge Management\|Personal Knowledge Management]]**.
