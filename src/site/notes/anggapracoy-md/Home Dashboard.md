@@ -15,3 +15,4 @@ isi nya ya apa yang mau aku isi aja sih hehehe
 
 ### Topics :
 **[[anggapracoy-md/Personal Knowledge Management\|Personal Knowledge Management]]**.
+[[00 Sparks/Mengapa Conceptual Learning & Ecological Approach Penting dalam BJJ?\|Mengapa Conceptual Learning & Ecological Approach Penting dalam BJJ?]]
