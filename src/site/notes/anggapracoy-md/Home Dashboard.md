@@ -8,7 +8,8 @@
 # Selamat Datang di Atomic Notes 🌱
 ---
 
-ini adalah space personal, komuniti bilangnya [[Digital Garden\|Digital Garden]] 
+ini adalah space personal, komuniti bilangnya [[Digital Garden\|Digital Garden]]. [[anggapracoy-md/Jiujitsu Garden\|Jiujitsu Garden]]
+
 
 isi nya ya apa yang mau aku isi aja sih hehehe
 
